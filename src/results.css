@@ -1,0 +1,9 @@
+.Results h2 {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 1.5;
+  margin-top: 5px;
+  color: rgb(55, 23, 85);
+  background-color: rgb(169, 213, 221);
+  border-radius: 5px;
+}

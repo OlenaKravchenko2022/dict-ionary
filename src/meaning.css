@@ -1,0 +1,12 @@
+.Meaning h3 {
+  font-size: 15px;
+  line-height: 1.5;
+  font-weight: bold;
+  text-transform: capitalize;
+  background-color: rgb(88, 107, 112);
+}
+
+.Meaning .example {
+  font-size: 15px;
+  opacity: 0.7;
+}
